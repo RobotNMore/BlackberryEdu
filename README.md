@@ -37,7 +37,7 @@
 4. Blackberry에 맞는 Board와 Port를 선택합니다.
 
     [Tools] -> [Board] -> [Arduino AVR Boards] -> [Arduino Mega or Mega 2560]
-    [Tools] -> [Port] -> COM# (Arduino Mega ADK)
+    [Tools] -> [Port] -> COM# (#은 Blackberry 연결 COM 번호)
 
 5. Blackberry에 Upload 합니다.
 
