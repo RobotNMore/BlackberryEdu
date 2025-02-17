@@ -1,6 +1,6 @@
 //////////////  모터 구동 관련 선언
-#define CHANGE_MOTOR_BAUDRATE_57600_TO_1M
-//#define CHANGE_MOTOR_BAUDRATE_1M_TO_57600
+//#define CHANGE_MOTOR_BAUDRATE_57600_TO_1M
+#define CHANGE_MOTOR_BAUDRATE_1M_TO_57600
 
 #define MOTOR_BAUDRATE_57600    (int32_t)1
 #define MOTOR_BAUDRATE_1M       (int32_t)3

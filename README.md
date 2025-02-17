@@ -28,11 +28,11 @@
 
     만약, USB 케이블을 연결하고 Blackberry 전원 스위치를 켰을 때 새로운 COM 포트가 추가되지 않으면 USB 드라이버를 다시 설치해야 합니다. (PC 장치 관리자에서 확인하거나, 간단히 [Tools] -> [Port] 메뉴에서 확인 가능함)
 
-3. Arduino 프로그램에서 아래 예제 코드를 엽니다.
+3. Arduino 프로그램에서 아래 자세 초기화 예제 코드를 엽니다.
 
     [File] -> [Open]
 
-    "BlackberryEdu\sourceCode\01\MobileManipulator-Blackberry-01-01-Blink-LED\MobileManipulator-Blackberry-01-01-Blink-LED.ino"
+    "BlackberryEdu\sourceCode\MobileManipulator_Blackberry_00_00_init_pos\MobileManipulator_Blackberry_00_00_init_pos.ino"
 
 4. Blackberry에 맞는 Board와 Port를 선택합니다.
 
